@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kuangbeibei&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **kuangbeibei/kuangbeibei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
