@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Kuangbeibei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuangbeibei&show_icons=true)
+![Kuangbeibei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuangbeibei&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuangbeibei&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuangbeibei&layout=compact)
+
 
 <!--
 **kuangbeibei/kuangbeibei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
