@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Kuangbeibei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuangbeibei&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuangbeibei&layout=compact&theme=material-palenight)
 
 
